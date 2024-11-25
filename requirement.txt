@@ -1,0 +1,7 @@
+asarPy==1.0.1
+fastapi 
+uvicorn 
+pydantic
+prisma
+bcrypt
+pyjwt
